@@ -4,6 +4,6 @@ IBM Cloud provides limited free service of [Watson Tone Analyzer](https://www.ib
 2. Anger
 3. Fear
 4. Analytical
-5. Congident
+5. Confident
 
 The API reference is https://cloud.ibm.com/apidocs/tone-analyzer 
